@@ -1,3 +1,5 @@
+<h1>$\color{red}{AT \space YOUR \space OWN \space RISK! \space NO \space SUPPORT!}$</h1>
+
 # How to determinate the right firmware
 
 Open the PCMaster and read out all parameters. There you'll also get SW version and HW version.
